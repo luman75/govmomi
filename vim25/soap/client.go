@@ -144,7 +144,7 @@ func (c *Client) RoundTrip(reqBody, resBody HasFault) error {
 	}
 
 	httpreq.Header.Set(`Content-Type`, `text/xml; charset="utf-8"`)
-	httpreq.Header.Set(`SOAPAction`, `urn:vim25/5.5`)
+	//httpreq.Header.Set(`SOAPAction`, `urn:vim25/5.5`)
 
 	if debug.Enabled() {
 		b, _ := httputil.DumpRequest(httpreq, false)
