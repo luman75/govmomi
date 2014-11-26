@@ -23,9 +23,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/vim25/progress"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/vim25/progress"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type ovfFileItem struct {

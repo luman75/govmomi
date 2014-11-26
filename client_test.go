@@ -22,8 +22,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/vmware/govmomi/test"
-	"github.com/vmware/govmomi/vim25/mo"
+	"github.com/luman75/govmomi/test"
+	"github.com/luman75/govmomi/vim25/mo"
 )
 
 func TestLogin(t *testing.T) {

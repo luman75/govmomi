@@ -17,8 +17,8 @@ limitations under the License.
 package govmomi
 
 import (
-	"github.com/vmware/govmomi/vim25/progress"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/progress"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 // Task adds functionality for the Task managed object.

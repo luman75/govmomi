@@ -22,8 +22,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/find"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/find"
 )
 
 type DatacenterFlag struct {

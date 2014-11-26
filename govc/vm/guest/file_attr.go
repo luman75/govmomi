@@ -19,7 +19,7 @@ package guest
 import (
 	"flag"
 
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type FileAttrFlag struct {

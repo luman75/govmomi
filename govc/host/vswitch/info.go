@@ -23,8 +23,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/vmware/govmomi/govc/cli"
-	"github.com/vmware/govmomi/govc/flags"
+	"github.com/luman75/govmomi/govc/cli"
+	"github.com/luman75/govmomi/govc/flags"
 )
 
 type info struct {

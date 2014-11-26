@@ -22,8 +22,8 @@ import (
 
 	"net/url"
 
-	"github.com/vmware/govmomi/vim25/mo"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/mo"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type Datastore struct {

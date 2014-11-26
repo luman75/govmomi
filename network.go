@@ -19,7 +19,7 @@ package govmomi
 import (
 	"path"
 
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type Network struct {

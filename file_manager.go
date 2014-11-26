@@ -17,8 +17,8 @@ limitations under the License.
 package govmomi
 
 import (
-	"github.com/vmware/govmomi/vim25/methods"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/methods"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type FileManager struct {

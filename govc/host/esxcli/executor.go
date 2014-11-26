@@ -20,10 +20,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/vim25/methods"
-	"github.com/vmware/govmomi/vim25/types"
-	"github.com/vmware/govmomi/vim25/xml"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/vim25/methods"
+	"github.com/luman75/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/xml"
 )
 
 type Executor struct {

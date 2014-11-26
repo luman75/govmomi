@@ -23,7 +23,7 @@ It primarily provides convenience functions for working with the vSphere API.
 See [godoc.org][godoc] for documentation.
 
 [apiref]:http://pubs.vmware.com/vsphere-55/index.jsp#com.vmware.wssdk.apiref.doc/right-pane.html
-[godoc]:http://godoc.org/github.com/vmware/govmomi
+[godoc]:http://godoc.org/github.com/luman75/govmomi
 
 ## Status
 

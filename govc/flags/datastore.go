@@ -25,8 +25,8 @@ import (
 	"path"
 	"sync"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 var (

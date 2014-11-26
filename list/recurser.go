@@ -20,7 +20,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/vmware/govmomi"
+	"github.com/luman75/govmomi"
 )
 
 type Recurser struct {

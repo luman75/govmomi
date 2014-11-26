@@ -3,7 +3,7 @@ package esxcli
 import (
 	"io"
 
-	"github.com/vmware/govmomi/vim25/xml"
+	"github.com/luman75/govmomi/vim25/xml"
 )
 
 type Values map[string][]string

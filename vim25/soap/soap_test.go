@@ -19,7 +19,7 @@ package soap
 import (
 	"testing"
 
-	"github.com/vmware/govmomi/vim25/xml"
+	"github.com/luman75/govmomi/vim25/xml"
 )
 
 func TestEmptyEnvelope(t *testing.T) {

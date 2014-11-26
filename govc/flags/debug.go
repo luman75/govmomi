@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vmware/govmomi/vim25/debug"
+	"github.com/luman75/govmomi/vim25/debug"
 )
 
 type DebugFlag struct {

@@ -20,7 +20,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/vmware/govmomi/govc/cli"
+	"github.com/luman75/govmomi/govc/cli"
 )
 
 type mktemp struct {

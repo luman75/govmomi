@@ -32,10 +32,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/vmware/govmomi/vim25/debug"
-	"github.com/vmware/govmomi/vim25/progress"
-	"github.com/vmware/govmomi/vim25/types"
-	"github.com/vmware/govmomi/vim25/xml"
+	"github.com/luman75/govmomi/vim25/debug"
+	"github.com/luman75/govmomi/vim25/progress"
+	"github.com/luman75/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/xml"
 )
 
 type HasFault interface {

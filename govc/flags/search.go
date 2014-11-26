@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/vmware/govmomi"
+	"github.com/luman75/govmomi"
 )
 
 const (

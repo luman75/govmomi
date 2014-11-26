@@ -28,8 +28,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/vim25/mo"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/vim25/mo"
 )
 
 const (

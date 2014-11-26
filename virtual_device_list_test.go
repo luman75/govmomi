@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 var devices = VirtualDeviceList([]types.BaseVirtualDevice{

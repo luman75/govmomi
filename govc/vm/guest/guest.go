@@ -22,8 +22,8 @@ import (
 
 	"net/url"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/govc/flags"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/govc/flags"
 )
 
 type GuestFlag struct {

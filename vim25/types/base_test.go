@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/vmware/govmomi/vim25/xml"
+	"github.com/luman75/govmomi/vim25/xml"
 )
 
 func TestAnyType(t *testing.T) {

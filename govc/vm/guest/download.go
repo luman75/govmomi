@@ -21,7 +21,7 @@ import (
 
 	"os"
 
-	"github.com/vmware/govmomi/govc/cli"
+	"github.com/luman75/govmomi/govc/cli"
 )
 
 type download struct {

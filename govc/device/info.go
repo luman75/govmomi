@@ -23,9 +23,9 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/vmware/govmomi/govc/cli"
-	"github.com/vmware/govmomi/govc/flags"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/govc/cli"
+	"github.com/luman75/govmomi/govc/flags"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type info struct {

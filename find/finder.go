@@ -20,9 +20,9 @@ import (
 	"errors"
 	"path"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/list"
-	"github.com/vmware/govmomi/vim25/mo"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/list"
+	"github.com/luman75/govmomi/vim25/mo"
 )
 
 type Finder struct {

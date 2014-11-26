@@ -16,7 +16,7 @@ limitations under the License.
 
 package govmomi
 
-import "github.com/vmware/govmomi/vim25/types"
+import "github.com/luman75/govmomi/vim25/types"
 
 type ComputeResource struct {
 	types.ManagedObjectReference

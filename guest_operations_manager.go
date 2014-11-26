@@ -16,7 +16,7 @@ limitations under the License.
 
 package govmomi
 
-import "github.com/vmware/govmomi/vim25/mo"
+import "github.com/luman75/govmomi/vim25/mo"
 
 type GuestOperationsManager struct {
 	c *Client

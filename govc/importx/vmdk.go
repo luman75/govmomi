@@ -24,13 +24,13 @@ import (
 	"reflect"
 	"regexp"
 
-	"github.com/vmware/govmomi"
-	"github.com/vmware/govmomi/govc/cli"
-	"github.com/vmware/govmomi/govc/flags"
-	"github.com/vmware/govmomi/vim25/mo"
-	"github.com/vmware/govmomi/vim25/progress"
-	"github.com/vmware/govmomi/vim25/soap"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi"
+	"github.com/luman75/govmomi/govc/cli"
+	"github.com/luman75/govmomi/govc/flags"
+	"github.com/luman75/govmomi/vim25/mo"
+	"github.com/luman75/govmomi/vim25/progress"
+	"github.com/luman75/govmomi/vim25/soap"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 type vmdk struct {

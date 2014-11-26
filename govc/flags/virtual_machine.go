@@ -22,7 +22,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/vmware/govmomi"
+	"github.com/luman75/govmomi"
 )
 
 type VirtualMachineFlag struct {

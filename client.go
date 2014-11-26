@@ -19,10 +19,10 @@ package govmomi
 import (
 	"net/url"
 
-	"github.com/vmware/govmomi/vim25/methods"
-	"github.com/vmware/govmomi/vim25/mo"
-	"github.com/vmware/govmomi/vim25/soap"
-	"github.com/vmware/govmomi/vim25/types"
+	"github.com/luman75/govmomi/vim25/methods"
+	"github.com/luman75/govmomi/vim25/mo"
+	"github.com/luman75/govmomi/vim25/soap"
+	"github.com/luman75/govmomi/vim25/types"
 )
 
 var serviceInstance = types.ManagedObjectReference{
